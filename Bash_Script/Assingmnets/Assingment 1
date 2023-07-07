@@ -1,0 +1,19 @@
+1) write a single script for the following
+1. To print your name using variable assignment
+2. to print the present date and time of your system with the system username using
+default built-in or environment variable
+2) write a bash script that accepts a string and checks if it is palindrome or not
+3) write a bash script that calculates the factorial of a given number
+4) write a bash script that take a filename as argument and counts the no of
+lines in that file
+5) write a Bash script that accepts a directory name as an argument and lists
+all the files in that directory
+6) write a Bash Script that reads a list of numbers from the user and calculates
+the Sum of those numbers
+7) write a Bash script that calculates the average of the list of numbers provided
+as arguments
+8) write a bash script to find the greatest of the three numbers
+9) write shell script to print table of any given number
+
+10) write a Bash script to install a package if it is not already installed?
+for example check "htop" is installed or not . if not then install using the Script
